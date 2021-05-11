@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Matthew
 - 👀 I’m interested in working on open source projects in Javascript, React, C#, or ASP NET CORE
-- 🌱 I’m currently learning ASP NET CORE and C#
 - 💞️ I’m looking to collaborate mainly on new features in web applications.
